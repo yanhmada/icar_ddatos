@@ -1,0 +1,5 @@
+Fecha de bajada:18-10-2022 11:26:14
+Descripción:Datos de Data Mexico 
+ Consultados en Vizbuilder api 
+ Dataset - Employment, Occupation and employment 2020
+Enlace:https://api.datamexico.org/tesseract/cubes/inegi_etoe/aggregate.jsonrecords?cuts%5B%5D=Geography.Geography.State.26&drilldowns%5B%5D=Sex.Sex.Sex&drilldowns%5B%5D=Geography.Geography.State&drilldowns%5B%5D=Age+Group.Age+Group.Age+Range&limit=50&measures%5B%5D=Wage&properties%5B%5D=Geography.Geography.State.State+ES

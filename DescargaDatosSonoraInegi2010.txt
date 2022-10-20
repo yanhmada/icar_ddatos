@@ -1,0 +1,5 @@
+Fecha de bajada:17-10-2022 21:32:39
+Descripción:Datos abiertos de Inegi 
+ Year 2010 
+ Sonora
+Enlace:https://www.inegi.org.mx/contenidos/programas/ccpv/2010/datosabiertos/iter_26_2010_csv.zip

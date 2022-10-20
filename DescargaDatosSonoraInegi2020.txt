@@ -1,0 +1,5 @@
+Fecha de bajada:17-10-2022 10:48:58
+Descripción:Datos abiertos de Inegi 
+ Year 2020 
+ Sonora
+Enlace:https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_26_cpv2020_csv.zip
